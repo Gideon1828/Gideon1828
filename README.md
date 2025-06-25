@@ -39,6 +39,15 @@
 
 ---
 
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+
+---
+
 ### ⚙️ DevOps & Project Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
@@ -51,6 +60,16 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Agile](https://img.shields.io/badge/-Agile-0277BD?style=flat)
 
+
+---
+
+### 📚 Additional Skills
+
+🔸 Responsive CSS — Mobile-first & adaptive designs
+
+🔸 REST API — Designing and consuming scalable APIs
+
+🔸 OOPs Principles — Core object-oriented concepts applied in Java and Python
 
 ---
 
